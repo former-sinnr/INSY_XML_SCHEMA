@@ -1,0 +1,15 @@
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="book.xsd">
+  <title>Moby Dick</title>
+  <author>
+    <given-name>Herman</given-name>
+    <middle-name>J. L.</middle-name>
+    <last-name>Melville</last-name>
+  </author>
+  <print>5-5-1927</print>
+  <pages>848</pages>
+  <description>...</description>
+  <literature>
+    <symbol>...</symbol>
+    <symbol>...</symbol>
+  </literature>
+</book>

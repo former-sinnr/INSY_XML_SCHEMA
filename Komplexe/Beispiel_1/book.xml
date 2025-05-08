@@ -1,0 +1,9 @@
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="book.xsd">
+  <title>Moby Dick</title>
+  <author>Herman Melville</author>
+  <print>5-5-1927</print>
+  <pages>848</pages>
+  <description>
+    Das erzählerische Rückgrat des Romans ist ...
+  </description>
+</book>
